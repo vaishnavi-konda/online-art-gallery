@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Administrator\\Desktop\\DotNet\\ARTGALLERYRESTSERVICE\\ARTGALLERYRESTSERVICE\\wwwroot\\Images\\seascape.jpg",
+      "PackagePath": "staticwebassets\\Images\\seascape.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ARTGALLERYRESTSERVICE.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ARTGALLERYRESTSERVICE.props",
+      "PackagePath": "build\\ARTGALLERYRESTSERVICE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ARTGALLERYRESTSERVICE.props",
+      "PackagePath": "buildMultiTargeting\\ARTGALLERYRESTSERVICE.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ARTGALLERYRESTSERVICE.props",
+      "PackagePath": "buildTransitive\\ARTGALLERYRESTSERVICE.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

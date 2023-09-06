@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "q+Hq/5yH78RldDJ8tE/Y4tPa7Cd2DaDu0Hz1BnKIQqs=",
+  "Source": "ARTGALLERYRESTSERVICE",
+  "BasePath": "_content/ARTGALLERYRESTSERVICE",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ARTGALLERYRESTSERVICE\\wwwroot",
+      "Source": "ARTGALLERYRESTSERVICE",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\DotNet\\ARTGALLERYRESTSERVICE\\ARTGALLERYRESTSERVICE\\wwwroot\\",
+      "BasePath": "_content/ARTGALLERYRESTSERVICE",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Administrator\\Desktop\\DotNet\\ARTGALLERYRESTSERVICE\\ARTGALLERYRESTSERVICE\\wwwroot\\Images\\seascape.jpg",
+      "SourceId": "ARTGALLERYRESTSERVICE",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Administrator\\Desktop\\DotNet\\ARTGALLERYRESTSERVICE\\ARTGALLERYRESTSERVICE\\wwwroot\\",
+      "BasePath": "_content/ARTGALLERYRESTSERVICE",
+      "RelativePath": "Images/seascape.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\seascape.jpg"
+    }
+  ]
+}
